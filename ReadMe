@@ -1,0 +1,5 @@
+This was our mini ETL project during our education.
+We decided to gather information from a weather station in Bromma Airport, via an API. 
+We used Python for this and also to run ETL on the data that we got. 
+The next step was to put that data in a database also using Python.
+All these steps were orchestraded with Airflow. 
