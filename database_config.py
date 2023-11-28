@@ -3,5 +3,5 @@ host = "localhost"
 port = "5432"
 database = "ETL_project"
 user="postgres"
-password = "Db2023"
+password = #### WRITE YOUR PASSWORD HERE ###
 
